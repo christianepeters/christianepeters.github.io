@@ -19,7 +19,7 @@ Welcome to my personal webpages. Here you find selected contributions to math, c
 <br/><br/>
 #### Contact
 - **GitHub**: [https://github.com/christianepeters](https://github.com/christianepeters)
-- **Mastodon**: [@cbcrypto@ioc.exchange](https://ioc.exchange/@cbcrypto)
+- **Mastodon**: <a href="https://ioc.exchange/@cbcrypto" rel="me">@cbcrypto@ioc.exchange</a>
 - **LinkedIn**: [https://www.linkedin.com/in/christianepeters](https://www.linkedin.com/in/christianepeters)
 - **Email**: christiane dot peters at mailbox dot org
 
