@@ -2,7 +2,7 @@ Welcome to my personal webpages. Here you find selected contributions to math, c
 
 **Short Professional Bio**
 
-- I work as a **Security Architect** in Cloud Customer Engineering at [Google](https://cloud.google.com/).
+- I work as a **Security Architect** in the Office of the CISO at [Google](https://cloud.google.com/solutions/security/leaders/).
 - I was a member of the **Advisory Board of the Department of Mathematics and Computer Science** at the [Technische Universiteit Eindhoven](http://w3.tue.nl/en/) in the Netherlands.
 - I worked as **Senior Security Architect** at [IBM](http://securityintelligence.com/). As **Global Lead of Cryptography Services** I established Consulting and System Integration Services in the field of cryptography, key management, and related data security capabilities for IBM's enterprise customers.
 - I was a **Senior Research Consultant** at the [European Network for Cyber Security](http://www.encs.eu) (ENCS), a not-for-profit organization in Europe whose main objective is to come up with practical security solutions for critical infrastructures. I worked on the EU funded research project [SEGRID](http://www.segrid.eu/).
