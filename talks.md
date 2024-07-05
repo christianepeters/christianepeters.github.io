@@ -3,6 +3,7 @@ title: "Talks"
 layout: page
 ---
 
+- 2024.07.04. **Crypto Agility in the Enterprise.** [COSIC Course on Cryptography and Cyber Security 2024](https://www.esat.kuleuven.be/cosic/events/cosic-course/programme/). Invited Lecture. Leuven, Belgium.
 - 2024.03.21. **Securing AI - Similar or different?** [Google Cloud Security Forum](https://rsvp.withgoogle.com/events/security-forum-zurich-2024). Zürich, Switzerland.
 - 2023.11.09. **Security and Compliance in Public Cloud.** Lecture for  ["Telecommunications and Security Management (B-KUL-H05S2A)"](https://onderwijsaanbod.kuleuven.be/syllabi/e/H05S2AE.htm#activetab=doelstellingen_idp21220816) at KU Leuven. Leuven, Belgium.
 - 2023.10.03. **Sicherheit in der Cloud – Technik und Recht im Einklang.** (joint talk with Jutta Oberlin, Google Cloud). [Swiss Legal Tech Conference](http://swisslegal.tech/). Zurich, Switzerland.
@@ -21,7 +22,7 @@ layout: page
 - 2020.09.29. **Developing Crypto Agility : a practical view.** [ISF Francophone Chapter](https://www.securityforum.org/events/chapter-meetings/francophone-chapter-meeting/). Virtual Conference.
 - 2020.01.09. **Implementing a Crypto Services Strategy at ABN AMRO Bank.** (joint talk with Tiago Teles, ABN AMRO Bank). [Real World Crypto 2020](https://rwc.iacr.org/2020/program.html). New York, NY, United States. [slides](https://rwc.iacr.org/2020/slides/Peters-Teles.pdf) [youtube](https://youtu.be/kED3K57EV6w) (starts minute 0:56:00)
 - 2019.11.05. **Cryptography Services 2020 and Beyond.** [21st ISSE Conference 2019](https://www.isse.eu.com/isse-2019-programme/). Keynote. Brussels, Belgium.
-- 2019.06.06. **Enterprise Security**. [COSIC Course - International Course on Cyber Security and Cryptography](https://www.cosic.esat.kuleuven.be/events/course/programme/). Invited Lecture. Leuven, Belgium.
+- 2019.06.06. **Enterprise Security**. [COSIC Course - International Course on Cyber Security and Cryptography 2019](https://www.esat.kuleuven.be/cosic/events/course/programme/index.html). Invited Lecture. Leuven, Belgium.
 - 2019.05.21. **Transport Layer Security / Enterprise Key and Certificate Management**. [ISACA TLS Round Table](https://engage.isaca.org/belgiumchapter/events/eventdescription?CalendarEventKey=4e9cc7c8-9e5e-47cf-8544-bcb9d1bc18b5&CommunityKey=c017fae9-cee4-404f-a1f1-cd4ad89cb31a). Lecture / training for ISACA. Brussels, Belgium.
 - 2019.05.08. **Crypto Agility**. [Regional Conference GSE Belux](https://www.gsebelux.com/node/259). Elewijt, Belgium.
 - 2018.11.06. **Cryptography for Enterprises & Quantum Risk Assessment**. [20th ISSE Conference 2018.](https://www.isse.eu.com) Keynote. Brussels, Belgium.
