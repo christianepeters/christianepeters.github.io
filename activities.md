@@ -9,7 +9,7 @@ layout: page
 
 I got a friendly acknowledgement in a Google Blog post for my contribution to the NIST competition as part of the [Classic McEliece](https://classic.mceliece.org/) team.
 
-[How Google is preparing for a post-quantum world | Google Cloud Blog](https://cloud.google.com/blog/products/identity-security/how-google-is-preparing-for-a-post-quantum-world)
+[How Google is preparing for a post-quantum world](https://cloud.google.com/blog/products/identity-security/how-google-is-preparing-for-a-post-quantum-world)
 
 
 <br/><br/>
