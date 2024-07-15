@@ -5,4 +5,4 @@ and guidance to set up this github page:
 [christianepeters.github.io](https://christianepeters.github.io/) pointing to my custom domain [cbcrypto.org](https://cbcrypto.org).
 
 
-TOOD add some explanation how I enabled [custom domains](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) including DNS configs etc.
+TODO add some explanation how I enabled [custom domains](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) including DNS configs etc.
