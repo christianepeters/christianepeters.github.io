@@ -3,9 +3,9 @@ title: "Talks"
 layout: page
 ---
 
-- 2024.10.02. **Sicherheit im KI-Zeitalter.** [Google Cloud Summit Austria](https://cloudonair.withgoogle.com/events/summit-oesterreich-2024). Vienna, Austria.
-- 2024.10.02. **Security Roundtable: KI als Game-Changer oder Hype im Kampf gegen Cyber-Angreifer?** [Google Cloud Summit Austria](https://cloudonair.withgoogle.com/events/summit-oesterreich-2024). Vienna, Austria.
-- 2024.10.01. **Sicherheit im KI-Zeitalter.** Partner Summit co-located with [Google Cloud Summit Austria](https://cloudonair.withgoogle.com/events/summit-oesterreich-2024). Vienna, Austria.
+- 2024.10.02. **Sicherheit im KI-Zeitalter** (in German). [Google Cloud Summit Austria](https://cloudonair.withgoogle.com/events/summit-oesterreich-2024). Vienna, Austria.
+- 2024.10.02. **Security Roundtable: KI als Game-Changer oder Hype im Kampf gegen Cyber-Angreifer?** (in German). [Google Cloud Summit Austria](https://cloudonair.withgoogle.com/events/summit-oesterreich-2024). Vienna, Austria.
+- 2024.10.01. **Sicherheit im KI-Zeitalter** (in German). Partner Summit co-located with [Google Cloud Summit Austria](https://cloudonair.withgoogle.com/events/summit-oesterreich-2024). Vienna, Austria.
 - 2024.09.25. **From Math to the C-Suite - Discussing Enterprise Security in the Quantum Age.** [HTW'24: High-Tech Women 2024](https://hightechwomen.org/). Invited Talk. Darmstadt, Germany.
 - 2024.07.04. **Crypto Agility in the Enterprise.** [COSIC Course on Cryptography and Cyber Security 2024](https://www.esat.kuleuven.be/cosic/events/cosic-course/programme/). Invited Lecture. Leuven, Belgium.
 - 2024.03.21. **Securing AI - Similar or different?** [Google Cloud Security Forum](https://rsvp.withgoogle.com/events/security-forum-zurich-2024). Zürich, Switzerland.
