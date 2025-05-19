@@ -3,6 +3,7 @@ title: "Talks"
 layout: page
 ---
 
+- 2025.05.14. **Post-Quantum Cryptography at Google**. [Google Cloud Summit Benelux](https://cloudonair.withgoogle.com/events/google-cloud-summit-benelux-2025). Amsterdam, the Netherlands.
 - 2025.03.24. **Google Cloud PQC: From Deep Engineering to Adoption Strategy**. [Real World PQC](https://rwpqc.sandboxaq.com/). Sofia, Bulgaria. *recording tbd*
 - 2025.03.05. **Quantum Crossroads. What a Time-Poor CISO Needs to Know**. [Google Cloud CISO Community](https://rsvp.withgoogle.com/events/google-cloud-ciso-community-london). Bagshot, UK.
 - 2024.11.13. **Navigating the Quantum Leap**. (joint talk with Kevin Kissell, Google Cloud). [Google Cloud CISO Community](https://rsvp.withgoogle.com/events/google-cloud-ciso-community-nyc). New York, NY, United States.
@@ -15,7 +16,7 @@ layout: page
 - 2024.03.21. **Securing AI - Similar or different?** [Google Cloud Security Forum](https://rsvp.withgoogle.com/events/security-forum-zurich-2024). Zürich, Switzerland.
 - 2023.11.09. **Security and Compliance in Public Cloud.** Lecture for  ["Telecommunications and Security Management (B-KUL-H05S2A)"](https://onderwijsaanbod.kuleuven.be/syllabi/e/H05S2AE.htm#activetab=doelstellingen_idp21220816) at KU Leuven. Leuven, Belgium.
 - 2023.10.03. **Sicherheit in der Cloud – Technik und Recht im Einklang.** (joint talk with Jutta Oberlin, Google Cloud). [Swiss Legal Tech Conference](http://swisslegal.tech/). Zurich, Switzerland.
-- 2023.06.26. **Digital Sovereignty**. [Google Cloud Security Forum](https://rsvp.withgoogle.com/events/security-day/). Amsterdam, The Netherlands.
+- 2023.06.26. **Digital Sovereignty**. [Google Cloud Security Forum](https://rsvp.withgoogle.com/events/security-day/). Amsterdam, the Netherlands.
 - 2023.06.15. **Data Governance**. [Google Cloud Security Forum](https://rsvp.withgoogle.com/events/security-forum-stockholm-jun15). Stockholm, Sweden.
 - 2023.05.25. **Security & Data enabled for Business Growth**. Keynote at [Global IT Security Summit](https://pgsolx.com/supplychain/GISS/8th/), Frankfurt/Main, Germany.
 - 2022.11.30. **Security and Compliance in Public Cloud.** Lecture for  ["Telecommunications and Security Management (B-KUL-H05S2A)"](https://onderwijsaanbod.kuleuven.be/syllabi/e/H05S2AE.htm#activetab=doelstellingen_idp21220816) at KU Leuven. Leuven, Belgium.
@@ -37,8 +38,8 @@ layout: page
 - 2018.01.08. **Enterprise Key and Certificate Management**. [ECRYPT-CSA School on Societal Aspects of Cryptology and on Business and Innovation in Crypto](https://www.cosic.esat.kuleuven.be/events/ecrypt-csa-school-cryptology/). Invited Talk. Zurich, Switzerland.
 - 2016.12.19. **Risk-based Security Architecture for Data Protection**. [LSEC Event on GDPR.](https://www.leadersinsecurity.org/events/icalrepeat.detail/2016/11/29/184/-/gpdr-plan-to-be-ready-prepare-to-set-change-to-go.html?filter_reset=1) Brussels, Belgium.
 - 2016.07.15. **Architectures for the IoT**. [IPICS Academic Summer School](https://www.cosic.esat.kuleuven.be/events/ipics2016/programme/). (joint talk with Stefaan Van daele). Leuven, Belgium.
-- 2015.05.18. Member of **3TU.NIRICT Panel:** **Cyber Security - Secure Information Sharing.** [Triple Helix. 3TU Innovation & Technology Conference 2015. Inspirations for the Research Agenda 2025.](https://www.aanmelder.nl/3tuconference/wiki/129382/background%20information%20interactive%20sessions#.WlYC6-ntyT_) Rotterdam, The Netherlands.
-- 2015.02.27. **Weaknesses in Smart Metering Cryptography**. [Cryptography Working Group](http://www.win.tue.nl/eipsi/seminars_cwg.html). Utrecht, The Netherlands.
+- 2015.05.18. Member of **3TU.NIRICT Panel:** **Cyber Security - Secure Information Sharing.** [Triple Helix. 3TU Innovation & Technology Conference 2015. Inspirations for the Research Agenda 2025.](https://www.aanmelder.nl/3tuconference/wiki/129382/background%20information%20interactive%20sessions#.WlYC6-ntyT_) Rotterdam, the Netherlands.
+- 2015.02.27. **Weaknesses in Smart Metering Cryptography**. [Cryptography Working Group](http://www.win.tue.nl/eipsi/seminars_cwg.html). Utrecht, the Netherlands.
 - 2013.12.17. **Cryptanalysis of Code-based Cryptography**. [Fourteenth IMA International Conference on Cryptography and Coding](http://www.cs.bris.ac.uk/Research/CryptographySecurity/IMACC13/). Oxford, United Kingdom. Invited tutorial. [slides](https://github.com/christianepeters/talks/blob/master/20131217.imacc.pdf)
 - 2013.06.19. Lectures on **Elliptic-Curve Cryptography** and **NTRU**. [Ph.D. course "Theoretical and Practical Topics in Resource-Efficient Cryptography."](http://lightweight.compute.dtu.dk/) Kongens Lyngby, Denmark.
 - 2013.06.08. **The k-sum Problem.** Lecture at [Ice Break](http://ice.mat.dtu.dk/). Reykjavik, Iceland. [slides](https://github.com/christianepeters/talks/blob/master/20130608.ice.pdf)
