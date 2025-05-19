@@ -3,9 +3,11 @@ title: "Talks"
 layout: page
 ---
 
+- 2025.05.15. Member of Panel on **AI Governance, Risk and Compliance**. [Google Cloud EMEA Risk and Compliance Roundtable](https://rsvp.withgoogle.com/events/h1-governance-risk-and-compliance-summit). London, United Kingdom.
 - 2025.05.14. **Post-Quantum Cryptography at Google**. [Google Cloud Summit Benelux](https://cloudonair.withgoogle.com/events/google-cloud-summit-benelux-2025). Amsterdam, the Netherlands.
-- 2025.03.24. **Google Cloud PQC: From Deep Engineering to Adoption Strategy**. [Real World PQC](https://rwpqc.sandboxaq.com/). Sofia, Bulgaria. *recording tbd*
-- 2025.03.05. **Quantum Crossroads. What a Time-Poor CISO Needs to Know**. [Google Cloud CISO Community](https://rsvp.withgoogle.com/events/google-cloud-ciso-community-london). Bagshot, UK.
+- 2025.03.24. **Google Cloud PQC: From Deep Engineering to Adoption Strategy**. [Real World PQC](https://rwpqc.sandboxaq.com/). Sofia, Bulgaria.
+- 2025.03.05. **Quantum Crossroads. What a Time-Poor CISO Needs to Know**. [Google Cloud CISO Community](https://rsvp.withgoogle.com/events/google-cloud-ciso-community-london). Bagshot, United Kingdom.
+- 2024.11.26. Member of Panel on **AI Risks Scenarios and Mitigations**. [Google Cloud EMEA Risk and Compliance Roundtable](https://rsvp.withgoogle.com/events/google-cloud-emea-regional-risk-roundtable-2024). London, United Kingdom.
 - 2024.11.13. **Navigating the Quantum Leap**. (joint talk with Kevin Kissell, Google Cloud). [Google Cloud CISO Community](https://rsvp.withgoogle.com/events/google-cloud-ciso-community-nyc). New York, NY, United States.
 - 2024.10.24. **Security and Compliance in Public Cloud.** Lecture for  ["Telecommunications and Security Management (B-KUL-H05S2A)"](https://onderwijsaanbod.kuleuven.be/syllabi/e/H05S2AE.htm#activetab=doelstellingen_idp21220816) at KU Leuven. Leuven, Belgium.
 - 2024.10.02. **Sicherheit im KI-Zeitalter** (in German). [Google Cloud Summit Austria](https://cloudonair.withgoogle.com/events/summit-oesterreich-2024). Vienna, Austria.
