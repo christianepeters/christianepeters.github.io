@@ -3,11 +3,13 @@ title: "Talks"
 layout: page
 ---
 
-- 2025.05.15. Member of Panel on **AI Governance, Risk and Compliance**. [Google Cloud EMEA Risk and Compliance Roundtable](https://rsvp.withgoogle.com/events/h1-governance-risk-and-compliance-summit). London, United Kingdom.
+- 2025.05.21. Panel **Critical Providers Keynote - Future of Identity Management**. [FS-ISAC EMEA Summit](https://www.fsisac.com/events/2025-emea-summit). Brussels, Belgium.
+- 2025.05.20. Panel **Shielding the Vault - Cloud Resilience for Financial Firms**. [FS-ISAC EMEA Summit](https://www.fsisac.com/events/2025-emea-summit). Brussels, Belgium.
+- 2025.05.15. Panel **AI Governance, Risk and Compliance**. [Google Cloud EMEA Risk and Compliance Roundtable](https://rsvp.withgoogle.com/events/h1-governance-risk-and-compliance-summit). London, United Kingdom.
 - 2025.05.14. **Post-Quantum Cryptography at Google**. [Google Cloud Summit Benelux](https://cloudonair.withgoogle.com/events/google-cloud-summit-benelux-2025). Amsterdam, the Netherlands.
 - 2025.03.24. **Google Cloud PQC: From Deep Engineering to Adoption Strategy**. [Real World PQC](https://rwpqc.sandboxaq.com/). Sofia, Bulgaria.
 - 2025.03.05. **Quantum Crossroads. What a Time-Poor CISO Needs to Know**. [Google Cloud CISO Community](https://rsvp.withgoogle.com/events/google-cloud-ciso-community-london). Bagshot, United Kingdom.
-- 2024.11.26. Member of Panel on **AI Risks Scenarios and Mitigations**. [Google Cloud EMEA Risk and Compliance Roundtable](https://rsvp.withgoogle.com/events/google-cloud-emea-regional-risk-roundtable-2024). London, United Kingdom.
+- 2024.11.26. Panel **AI Risks Scenarios and Mitigations**. [Google Cloud EMEA Risk and Compliance Roundtable](https://rsvp.withgoogle.com/events/google-cloud-emea-regional-risk-roundtable-2024). London, United Kingdom.
 - 2024.11.13. **Navigating the Quantum Leap**. (joint talk with Kevin Kissell, Google Cloud). [Google Cloud CISO Community](https://rsvp.withgoogle.com/events/google-cloud-ciso-community-nyc). New York, NY, United States.
 - 2024.10.24. **Security and Compliance in Public Cloud.** Lecture for  ["Telecommunications and Security Management (B-KUL-H05S2A)"](https://onderwijsaanbod.kuleuven.be/syllabi/e/H05S2AE.htm#activetab=doelstellingen_idp21220816) at KU Leuven. Leuven, Belgium.
 - 2024.10.02. **Sicherheit im KI-Zeitalter** (in German). [Google Cloud Summit Austria](https://cloudonair.withgoogle.com/events/summit-oesterreich-2024). Vienna, Austria.
@@ -26,7 +28,7 @@ layout: page
     
 - 2021.11.25. **IT-Sicherheit, Datenschutz und Compliance im Finanzsektor**. Google Cloud [Webinar](https://www.linkedin.com/events/webinar-security-compliancederg6859798889399111680/about/) ([rerun in May 2022](https://cloudonair.withgoogle.com/events/security-compliance-beispiel-finanzsektor?utm_campaign=60ed476f506da200010054f0&utm_content=626649ca41a0aa0001a082c2&utm_medium=smarpshare&utm_source=linkedin)).
 - 2021.11.10. **Security and Compliance in Public Cloud.** Lecture for  ["Telecommunications and Security Management (B-KUL-H05S2A)"](https://onderwijsaanbod.kuleuven.be/syllabi/e/H05S2AE.htm#activetab=doelstellingen_idp21220816) at KU Leuven. Leuven, Belgium.
-- 2021.03.26. **Advanced Data-Centric Data Protection for AI and Machine Learning.** Panel presentation at [Leuven AI Law & Ethics Conference (LAILEC) 2021](https://www.law.kuleuven.be/citip/en/citip-conferences/lailec/lailec-2021/welcome). Virtual Conference.
+- 2021.03.26. **Advanced Data-Centric Data Protection for AI and Machine Learning.** [Leuven AI Law & Ethics Conference (LAILEC) 2021](https://www.law.kuleuven.be/citip/en/citip-conferences/lailec/lailec-2021/welcome). Virtual Conference.
 - 2020.11.18. **Crypto Agility in the Financial Sector - A Practitioner’s View.** [ISF World Congress 2020](https://www.securityforum.org/events/world-congress/31st-isf-annual-world-congress/). Online Seminar.
 - 2020.11.10. **Protecting Customer Data on Multi-Hybrid Cloud – Case Study.** [Thales EMEA Virtual Partner Summit 2020](https://www6.thalesgroup.com/EMEA-Virtual-Partner-Summit-2020). Virtual Conference.
 - 2020.10.12. **The Cost of a Data Breach : from cybersecurity attacks to security operations.** Lecture for ["Telecommunications and Security Management (B-KUL-H05S2A)" at KU Leuven](https://www.onderwijsaanbod.kuleuven.be/2020/syllabi/e/H05S2AE.htm). Leuven, Belgium.
@@ -40,7 +42,7 @@ layout: page
 - 2018.01.08. **Enterprise Key and Certificate Management**. [ECRYPT-CSA School on Societal Aspects of Cryptology and on Business and Innovation in Crypto](https://www.cosic.esat.kuleuven.be/events/ecrypt-csa-school-cryptology/). Invited Talk. Zurich, Switzerland.
 - 2016.12.19. **Risk-based Security Architecture for Data Protection**. [LSEC Event on GDPR.](https://www.leadersinsecurity.org/events/icalrepeat.detail/2016/11/29/184/-/gpdr-plan-to-be-ready-prepare-to-set-change-to-go.html?filter_reset=1) Brussels, Belgium.
 - 2016.07.15. **Architectures for the IoT**. [IPICS Academic Summer School](https://www.cosic.esat.kuleuven.be/events/ipics2016/programme/). (joint talk with Stefaan Van daele). Leuven, Belgium.
-- 2015.05.18. Member of **3TU.NIRICT Panel:** **Cyber Security - Secure Information Sharing.** [Triple Helix. 3TU Innovation & Technology Conference 2015. Inspirations for the Research Agenda 2025.](https://www.aanmelder.nl/3tuconference/wiki/129382/background%20information%20interactive%20sessions#.WlYC6-ntyT_) Rotterdam, the Netherlands.
+- 2015.05.18. Panel **3TU.NIRICT Cyber Security - Secure Information Sharing.** [Triple Helix. 3TU Innovation & Technology Conference 2015. Inspirations for the Research Agenda 2025.](https://www.aanmelder.nl/3tuconference/wiki/129382/background%20information%20interactive%20sessions#.WlYC6-ntyT_) Rotterdam, the Netherlands.
 - 2015.02.27. **Weaknesses in Smart Metering Cryptography**. [Cryptography Working Group](http://www.win.tue.nl/eipsi/seminars_cwg.html). Utrecht, the Netherlands.
 - 2013.12.17. **Cryptanalysis of Code-based Cryptography**. [Fourteenth IMA International Conference on Cryptography and Coding](http://www.cs.bris.ac.uk/Research/CryptographySecurity/IMACC13/). Oxford, United Kingdom. Invited tutorial. [slides](https://github.com/christianepeters/talks/blob/master/20131217.imacc.pdf)
 - 2013.06.19. Lectures on **Elliptic-Curve Cryptography** and **NTRU**. [Ph.D. course "Theoretical and Practical Topics in Resource-Efficient Cryptography."](http://lightweight.compute.dtu.dk/) Kongens Lyngby, Denmark.
