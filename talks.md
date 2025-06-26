@@ -3,6 +3,8 @@ title: "Talks"
 layout: page
 ---
 
+- 2025.06.24. **Google's PQC Journey: An Industry Perspective.** [Workshop on Secure Protocol Implementations in the Quantum Era (SPIQE)](https://spiqe-workshop.github.io/). Invited Talk. Munich, Germany.
+- 2025.06.19. **PQC Adoption Challenges for Industry.** [PQC fundamentals - PQCSA summer school](https://www.esat.kuleuven.be/cosic/events/pqcsa-summer-school/). Invited Talk. Albena, Bulgaria.
 - 2025.05.21. Panel **Critical Providers Keynote - Future of Identity Management**. [FS-ISAC EMEA Summit](https://www.fsisac.com/events/2025-emea-summit). Brussels, Belgium.
 - 2025.05.20. Panel **Shielding the Vault - Cloud Resilience for Financial Firms**. [FS-ISAC EMEA Summit](https://www.fsisac.com/events/2025-emea-summit). Brussels, Belgium.
 - 2025.05.15. Panel **AI Governance, Risk and Compliance**. [Google Cloud EMEA Risk and Compliance Roundtable](https://rsvp.withgoogle.com/events/h1-governance-risk-and-compliance-summit). London, United Kingdom.
