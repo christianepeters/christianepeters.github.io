@@ -8,7 +8,7 @@ Welcome to my personal webpages. Here you find selected contributions to math, c
 <br/><br/>
 #### Short Professional Bio
 
-- I work as a **Security Architect** in the Office of the CISO at [Google](https://cloud.google.com/solutions/security/leaders/).
+- I am a **Security Architect** in the Office of the CISO at [Google](https://cloud.google.com/solutions/security/leaders/). My primary focus is on the strategy and adoption of post-quantum cryptography within Google Cloud. I advise both our customers and our internal product teams, ensuring our efforts align with the broader [Alphabet PQC program](https://cloud.google.com/security/resources/post-quantum-cryptography?e=48754805).
 - I was a member of the **Advisory Board of the Department of Mathematics and Computer Science** at the [Technische Universiteit Eindhoven](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science) in the Netherlands.
 - I worked as **Senior Security Architect** at [IBM](http://securityintelligence.com/). As **Global Lead of Cryptography Services** I established Consulting and System Integration Services in the field of cryptography, key management, and related data security capabilities for IBM's enterprise customers.
 - I was a **Senior Research Consultant** at the [European Network for Cyber Security](http://www.encs.eu) (ENCS), a not-for-profit organization in Europe whose main objective is to come up with practical security solutions for critical infrastructures. I worked on the EU funded research project [SEGRID](http://www.segrid.eu/).
