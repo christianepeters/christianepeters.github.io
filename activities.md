@@ -15,7 +15,7 @@ Here are a few of my posts you'll find on the hub:
 * [Cloud CISO Perspectives - Getting ready for Quantum](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-prepare-early-for-PQC-resilient-cryptographic-threats/?e=48754805): This one was heavily edited by marketing, but the core message is still there.
 * [From Inventory to Agility: A CISO's Guide to Robust Key Management](https://www.googlecloudcommunity.com/gc/Community-Blog/From-Inventory-to-Agility-A-CISO-s-Guide-to-Robust-Key/ba-p/895332): This one shares Google's perspective on crypto inventory and crypto agility - ie the capability to tackle not just this but also the migration that comes after that. We see an inventory not as a compliance exercise, but as a way to solve today's most critical problems, like proper key management. The inventory then becomes a valuable side effect of a better security process.
 
-Check out these and other resources on the [PQC Hub](https://cloud.google.com/security/resources/post-quantum-cryptography?e=48754805).
+
 
 <br/><br/>
 ## Post-Quantum Cryptography at Google
