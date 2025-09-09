@@ -3,7 +3,21 @@ title: "Activities"
 layout: page
 ---
 
+## More PQC at Google
+**date: 2025.09.09**
 
+Last year, we launched the [Post-Quantum Cryptography Hub](https://cloud.google.com/security/resources/post-quantum-cryptography?e=48754805), a collection of resources and updates on Google's quantum-safe journey. It's designed to share our approach to this massive cryptographic migration.
+
+My contributions are often for CISOs and senior leaders figuring out where to begin. These articles reflect real conversations about how to get buy-in for this unique program.
+
+Here are a few of my posts you'll find on the hub:
+* [Perspectives on Security for the Board: Navigating the Quantum Leap](https://services.google.com/fh/files/misc/perspectives_on_security_for_the_board_ed5.pdf): A high-level piece based on discussions with senior stakeholders and board members.
+* [Cloud CISO Perspectives - Getting ready for Quantum](https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-prepare-early-for-PQC-resilient-cryptographic-threats/?e=48754805): This one was heavily edited by marketing, but the core message is still there.
+* [From Inventory to Agility: A CISO's Guide to Robust Key Management](https://www.googlecloudcommunity.com/gc/Community-Blog/From-Inventory-to-Agility-A-CISO-s-Guide-to-Robust-Key/ba-p/895332): This one shares Google's perspective on crypto inventory and crypto agility - ie the capability to tackle not just this but also the migration that comes after that. We see an inventory not as a compliance exercise, but as a way to solve today's most critical problems, like proper key management. The inventory then becomes a valuable side effect of a better security process.
+
+Check out these and other resources on the [PQC Hub](https://cloud.google.com/security/resources/post-quantum-cryptography?e=48754805).
+
+<br/><br/>
 ## Post-Quantum Cryptography at Google
 **date: 2022.07.11**
 
@@ -162,7 +176,7 @@ Project website: [https://segrid.eu/](https://segrid.eu/)
 
 
 <br/><br/>
-## Austria Smart Meter Security Requirements"
+## Austria Smart Meter Security Requirements
 **date: 2015.03.30**
 
 At [ENCS](https://encs.eu/) I co-wrote the Smart Meter Requirements for Austria's End-to-End Secure Smart Metering architecture published by [Oesterreichs Energie](https://oesterreichsenergie.at/). We wrote the original in German, then added an English translation later. The documents were made available to the public: [https://oesterreichsenergie.at/sicherheitsanforderungen-fuer-smart-meter.html](https://oesterreichsenergie.at/sicherheitsanforderungen-fuer-smart-meter.html)
