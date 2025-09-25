@@ -3,6 +3,7 @@ title: "Talks"
 layout: page
 ---
 
+- 2025.09.23. **Post-Quanten-Kryptographie: Praktische Umsetzung und Skalierung** (in German). [Cyberwomen 2025](https://cyberwomen.de/agenda-2025-23-09-koeln/). Cologne, Germany.
 - 2025.09.18. Panel **Next-Gen Finance: Tech, Trust & Transformation in a Quantum-Resilient Economy.** [Deutsche Börse  Open Day](https://www.deutsche-boerse.com/dbg-en/about-us/deutsche-boerse-group/events/event/Open-Day-2025-4308436). Frankfurt, Germany.
 - 2025.08.27. **Quantum Crossroads: Navigating the Future of Cryptography.** [Google Cloud APAC CISO Community](https://rsvp.withgoogle.com/events/google-cloud-ciso-community-apac25). Singapore.
 - 2025.06.24. **Google's PQC Journey: An Industry Perspective.** [Workshop on Secure Protocol Implementations in the Quantum Era (SPIQE)](https://spiqe-workshop.github.io/). Invited Talk. Munich, Germany.
