@@ -3,6 +3,7 @@ title: "Talks"
 layout: page
 ---
 
+- 2025.11.20. Panel **NIS2 and Cyber Resilience**. [Google Cloud EMEA H2 Governance, Risk, and Compliance Summit](https://rsvp.withgoogle.com/events/h2-governance-risk-and-compliance-summit_8a8812). London, United Kingdom.
 - 2025.09.23. **Post-Quanten-Kryptographie: Praktische Umsetzung und Skalierung** (in German). [Cyberwomen 2025](https://cyberwomen.de/agenda-2025-23-09-koeln/). Cologne, Germany.
 - 2025.09.18. Panel **Next-Gen Finance: Tech, Trust & Transformation in a Quantum-Resilient Economy.** [Deutsche Börse  Open Day](https://www.deutsche-boerse.com/dbg-en/about-us/deutsche-boerse-group/events/event/Open-Day-2025-4308436). Frankfurt, Germany.
 - 2025.08.27. **Quantum Crossroads: Navigating the Future of Cryptography.** [Google Cloud APAC CISO Community](https://rsvp.withgoogle.com/events/google-cloud-ciso-community-apac25). Singapore.
@@ -10,7 +11,7 @@ layout: page
 - 2025.06.19. **PQC Adoption Challenges for Industry.** [PQC fundamentals - PQCSA summer school](https://www.esat.kuleuven.be/cosic/events/pqcsa-summer-school/). Invited Talk. Albena, Bulgaria.
 - 2025.05.21. Panel **Critical Providers Keynote - Future of Identity Management**. [FS-ISAC EMEA Summit](https://www.fsisac.com/events/2025-emea-summit). Brussels, Belgium.
 - 2025.05.20. Panel **Shielding the Vault - Cloud Resilience for Financial Firms**. [FS-ISAC EMEA Summit](https://www.fsisac.com/events/2025-emea-summit). Brussels, Belgium.
-- 2025.05.15. Panel **AI Governance, Risk and Compliance**. [Google Cloud EMEA Risk and Compliance Roundtable](https://rsvp.withgoogle.com/events/h1-governance-risk-and-compliance-summit). London, United Kingdom.
+- 2025.05.15. Panel **AI Governance, Risk and Compliance**. [Google Cloud EMEA H1 Governance, Risk, and Compliance Summit](https://rsvp.withgoogle.com/events/h1-governance-risk-and-compliance-summit). London, United Kingdom.
 - 2025.05.14. **Post-Quantum Cryptography at Google**. [Google Cloud Summit Benelux](https://cloudonair.withgoogle.com/events/google-cloud-summit-benelux-2025). Amsterdam, the Netherlands.
 - 2025.03.24. **Google Cloud PQC: From Deep Engineering to Adoption Strategy**. [Real World PQC](https://rwpqc.sandboxaq.com/). Sofia, Bulgaria.
 - 2025.03.05. **Quantum Crossroads. What a Time-Poor CISO Needs to Know**. [Google Cloud EMEA CISO Community](https://rsvp.withgoogle.com/events/google-cloud-ciso-community-london). Bagshot, United Kingdom.
