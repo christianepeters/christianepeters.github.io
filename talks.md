@@ -3,6 +3,7 @@ title: "Talks"
 layout: page
 ---
 
+- 2025.12.02. **PQC at Google: a decade of lessons learned**. [EU PQC Migration Conference](https://pqc-conference.eu/program/day1/). Invited Talk. The Hague, the Netherlands.
 - 2025.11.20. Panel **NIS2 and Cyber Resilience**. [Google Cloud EMEA H2 Governance, Risk, and Compliance Summit](https://rsvp.withgoogle.com/events/h2-governance-risk-and-compliance-summit_8a8812). London, United Kingdom.
 - 2025.09.23. **Post-Quanten-Kryptographie: Praktische Umsetzung und Skalierung** (in German). [Cyberwomen 2025](https://cyberwomen.de/agenda-2025-23-09-koeln/). Cologne, Germany.
 - 2025.09.18. Panel **Next-Gen Finance: Tech, Trust & Transformation in a Quantum-Resilient Economy.** [Deutsche Börse  Open Day](https://www.deutsche-boerse.com/dbg-en/about-us/deutsche-boerse-group/events/event/Open-Day-2025-4308436). Frankfurt, Germany.
