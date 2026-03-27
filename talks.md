@@ -3,6 +3,7 @@ title: "Talks"
 layout: page
 ---
 
+- 2026.03.04. **Kryptographie ist überall, aber verstehen wir sie wirklich?** Interview (in German) with Lisa Fröhlich as part of the "Follow the White Rabbit" podcast available on [apple](https://podcasts.apple.com/nl/podcast/56-kryptographie-ist-%C3%BCberall-aber-verstehen-wir-sie/id1715128017?i=1000752994696) and [spotify](https://open.spotify.com/episode/7heBvl0OObYMFU7fVRSXxb?si=rxQjoi1TQImNZR9HhS2U4Q).
 - 2025.12.04. **Security and Compliance in Public Cloud.** Lecture for  ["Telecommunications and Security Management (B-KUL-H05S2A)"](https://onderwijsaanbod.kuleuven.be/syllabi/e/H05S2AE.htm#activetab=doelstellingen_idp21220816) at KU Leuven. Leuven, Belgium.
 - 2025.12.02. **PQC at Google: a decade of lessons learned**. [EU PQC Migration Conference](https://pqc-conference.eu/program/day1/). Invited Talk. The Hague, the Netherlands.
 - 2025.11.20. Panel **NIS2 and Cyber Resilience**. [Google Cloud EMEA H2 Governance, Risk, and Compliance Summit](https://rsvp.withgoogle.com/events/h2-governance-risk-and-compliance-summit_8a8812). London, United Kingdom.
