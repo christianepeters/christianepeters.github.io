@@ -2,7 +2,32 @@
 title: "Activities"
 layout: page
 ---
+## Conferences
+**date: 2026.08.**
 
+I actively contributed to the organization and / or program committees [PCs] of the following events:
+
+- [ACM SIGSAC Conference on Post-Quantum and Quantum-based Security (PQQS)](https://acm-pqqs.github.io/pqqs2026/call-for/call-for-papers.html) ‒ San Jose, CA, USA ‒ November 2-4, 2026 \[PC member\].
+- [Secure Protocol Implementations in the Quantum Era (SPIQE)](https://spiqe.cool/cfp/) ‒ Lisbon, Portugal ‒ Jul 10, 2026 \[PC member\].
+- [Selected Areas in Cryptography (SAC) 2021](https://www.sac2021.ca/) ‒ Virtual Conference ‒ Sep 29 ‒ Oct 1, 2021 \[PC member\].
+- [Latincrypt 2021](https://www.urosario.edu.co/Latin-Crypt-2020/inicio/) ‒ Virtual Conference ‒ October 6-8, 2021 \[PC member\].
+- [Selected Areas in Cryptography (SAC) 2020](https://sac2020.ca/cfp.html) ‒ Virtual Conference ‒ Oct 19-23, 2020 \[PC member\].
+- [WEWoRC 2015](http://2015.weworc.org/ "WEWoRC 2015") ‒ Cottbus, Germany, October 2015 \[PC member\]. (Update: workshop canceled)
+- [Indocrypt 2014](http://cse.iitkgp.ac.in/conf/INDOCRYPT2014/) ‒ New Delhi, India, December 2014 \[PC member\].
+- [Selected Areas in Cryptography (SAC) 2014](http://users.encs.concordia.ca/~youssef/SAC2014-WebSite/index.php) ‒ Montreal, QC, Canada, August 2014 \[PC member\].
+- [MoCrySEn 2013](http://mocrysen2013.inria.fr/) ‒ Regensburg, Germany, September 2013 \[PC member\].
+- [Selected Areas in Cryptography (SAC) 2013](http://sac2013.irmacs.sfu.ca/) ‒ Vancouver, BC, Canada, August 2013 \[PC member\].
+- [CrossFyre 2013](http://www.cosic.esat.kuleuven.be/crossfyre/) ‒ Leuven, Belgium, June 2013 \[Co-organizer\].
+- [Code-based Cryptography Workshop 2013](http://cbc2013.inria.fr/) ‒ Paris-Rocquencourt, France, June 2013 \[PC member\].
+- [YACC 2012](http://yacc.univ-tln.fr/) ‒ Porquerolles Island, France, September 2012 \[PC member\].
+- [CrossFyre 2012](http://www.crossfyre.cased.de/home.html) ‒ Eindhoven, the Netherlands, June 2012 \[Co-organizer\].
+- [Code-based Cryptography Workshop](http://cbc2012.mat.dtu.dk/) ‒ Kgs. Lyngby, Denmark, May 2012 \[Organizer\].
+- [PKC 2012](http://pkc2012.cased.de/) ‒ Darmstadt, Germany, May 2012 \[PC member\].
+- [PQCrypto 2011](http://pq.crypto.tw/pqc11/) ‒ Taipei, Taiwan, December 2011 \[PC member\].
+- [ECRYPT-II Code-based Cryptography Workshop](http://www.win.tue.nl/cccc/cbc/) ‒ Eindhoven, the Netherlands, May 2011 \[Co-organizer\].
+- [CrossFyre 2011](http://www.crossfyre.cased.de/home.html) ‒ Darmstadt, Germany, April 2011 \[Co-organizer\].
+
+<br/><br/>
 ## More PQC at Google
 **date: 2025.09.09**
 
@@ -24,31 +49,6 @@ Here are a few of my posts you'll find on the hub:
 I got a friendly acknowledgement in a Google Blog post for my contribution to the NIST competition as part of the [Classic McEliece](https://classic.mceliece.org/) team.
 
 [How Google is preparing for a post-quantum world](https://cloud.google.com/blog/products/identity-security/how-google-is-preparing-for-a-post-quantum-world)
-
-
-<br/><br/>
-## Conferences
-**date: 2021.08.15**
-
-I actively contributed to the organization and / or program committees [PCs] of the following events:
-
-- [Selected Areas in Cryptography (SAC) 2021](https://www.sac2021.ca/) ‒ Virtual Conference ‒ Sep 29 - Oct 1, 2021 \[PC member\].
-- [Latincrypt 2021](https://www.urosario.edu.co/Latin-Crypt-2020/inicio/) ‒ Virtual Conference ‒ October 6-8, 2021 \[PC member\].
-- [Selected Areas in Cryptography (SAC) 2020](https://sac2020.ca/cfp.html) ‒ Virtual Conference ‒ Oct 19-23, 2020 \[PC member\].
-- [WEWoRC 2015](http://2015.weworc.org/ "WEWoRC 2015") ‒ Cottbus, Germany, October 2015 \[PC member\]. (Update: workshop canceled)
-- [Indocrypt 2014](http://cse.iitkgp.ac.in/conf/INDOCRYPT2014/) ‒ New Delhi, India, December 2014 \[PC member\].
-- [Selected Areas in Cryptography (SAC) 2014](http://users.encs.concordia.ca/~youssef/SAC2014-WebSite/index.php) ‒ Montreal, QC, Canada, August 2014 \[PC member\].
-- [MoCrySEn 2013](http://mocrysen2013.inria.fr/) ‒ Regensburg, Germany, September 2013 \[PC member\].
-- [Selected Areas in Cryptography (SAC) 2013](http://sac2013.irmacs.sfu.ca/) ‒ Vancouver, BC, Canada, August 2013 \[PC member\].
-- [CrossFyre 2013](http://www.cosic.esat.kuleuven.be/crossfyre/) ‒ Leuven, Belgium, June 2013 \[Co-organizer\].
-- [Code-based Cryptography Workshop 2013](http://cbc2013.inria.fr/) ‒ Paris-Rocquencourt, France, June 2013 \[PC member\].
-- [YACC 2012](http://yacc.univ-tln.fr/) ‒ Porquerolles Island, France, September 2012 \[PC member\].
-- [CrossFyre 2012](http://www.crossfyre.cased.de/home.html) ‒ Eindhoven, the Netherlands, June 2012 \[Co-organizer\].
-- [Code-based Cryptography Workshop](http://cbc2012.mat.dtu.dk/) ‒ Kgs. Lyngby, Denmark, May 2012 \[Organizer\].
-- [PKC 2012](http://pkc2012.cased.de/) ‒ Darmstadt, Germany, May 2012 \[PC member\].
-- [PQCrypto 2011](http://pq.crypto.tw/pqc11/) ‒ Taipei, Taiwan, December 2011 \[PC member\].
-- [ECRYPT-II Code-based Cryptography Workshop](http://www.win.tue.nl/cccc/cbc/) ‒ Eindhoven, the Netherlands, May 2011 \[Co-organizer\].
-- [CrossFyre 2011](http://www.crossfyre.cased.de/home.html) ‒ Darmstadt, Germany, April 2011 \[Co-organizer\].
 
 
 <br/><br/>
