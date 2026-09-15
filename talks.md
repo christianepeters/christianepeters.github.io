@@ -3,6 +3,7 @@ title: "Talks"
 layout: page
 ---
 
+- 2026.09.08. Panel **"The cost of inaction - data protection risks of a late quantum transition".** [IPEN event on post-quantum cryptography](https://www.edps.europa.eu/ipen-event-post-quantum-cryptography_en). Salzburg, Austria. [recording](https://www.edps.europa.eu/press-publications/press-news/videos/ipen-event-post-quantum-cryptography-panel-2_en)
 - 2026.06.26. **Security Architectures for the Financial Sector.** [COSIC Course on Cryptography and Cyber Security 2026](https://www.esat.kuleuven.be/cosic/events/cosic-course/programme26/). Invited Lecture. Leuven, Belgium.
 - 2026.05.19. **PQC Migration at Google**. [PQCSA Workshop
 Privacy in the Post-Quantum Era: Challenges and Migration Strategies](https://cryptoexperts.com/pqcsa-workshop-2026/). 
