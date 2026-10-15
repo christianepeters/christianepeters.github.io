@@ -9,7 +9,7 @@ I actively contributed to the organization and / or program committees [PCs] of 
 
 - [ACM SIGSAC Conference on Post-Quantum and Quantum-based Security (PQQS)](https://acm-pqqs.github.io/pqqs2026/call-for/call-for-papers.html) ‒ San Jose, CA, USA ‒ November 2-4, 2026 \[PC member\].
 - [Secure Protocol Implementations in the Quantum Era (SPIQE)](https://spiqe.cool/cfp/) ‒ Lisbon, Portugal ‒ Jul 10, 2026 \[PC member\].
-- [Selected Areas in Cryptography (SAC) 2021](https://www.sac2021.ca/) ‒ Virtual Conference ‒ Sep 29 ‒ Oct 1, 2021 \[PC member\].
+- [Selected Areas in Cryptography (SAC) 2021](https://www.sacworkshop.org/SAC21/call-for-papers.html) ‒ Virtual Conference ‒ Sep 29 ‒ Oct 1, 2021 \[PC member\].
 - [Latincrypt 2021](https://www.urosario.edu.co/Latin-Crypt-2020/inicio/) ‒ Virtual Conference ‒ October 6-8, 2021 \[PC member\].
 - [Selected Areas in Cryptography (SAC) 2020](https://sac2020.ca/cfp.html) ‒ Virtual Conference ‒ Oct 19-23, 2020 \[PC member\].
 - [WEWoRC 2015](http://2015.weworc.org/ "WEWoRC 2015") ‒ Cottbus, Germany, October 2015 \[PC member\]. (Update: workshop canceled)
